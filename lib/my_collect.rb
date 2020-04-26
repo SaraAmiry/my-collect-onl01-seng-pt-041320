@@ -4,4 +4,4 @@ def my_collect
     name.split(" ").first 
   end 
 end 
-
+ my_collect
